@@ -4,7 +4,7 @@ const WEB = {
 };
 
 const USER = {
-  username: "Bùi Đặng Phúc ",
+  username: "BùiĐăăng Phúc ",
   blueTick: false,
   avatar: "logoweb.png",
   skills: [
