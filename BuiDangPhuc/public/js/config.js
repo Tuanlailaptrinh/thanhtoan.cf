@@ -4,7 +4,7 @@ const WEB = {
 };
 
 const USER = {
-  username: "BùiĐăăng Phúc ",
+  username: "Bùi Đăng Phúc ",
   blueTick: false,
   avatar: "logoweb.png",
   skills: [
@@ -27,7 +27,7 @@ const USER = {
       {
          name: "Momo",
          logo: "momo.jpg",
-         number: "0762313367",
+         number: "0762313378",
          owner: "BUI DANG PHUC",
          fastTransfer: true
     },
